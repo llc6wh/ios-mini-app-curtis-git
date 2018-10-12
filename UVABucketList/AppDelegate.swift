@@ -1,4 +1,4 @@
-//
+///Users/user145551/Documents/iOSMiniApp/UVABucketList/UVABucketList/AppDelegate.swift
 //  AppDelegate.swift
 //  UVABucketList
 //
